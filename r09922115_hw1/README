@@ -1,0 +1,6 @@
+## r09922115
+## 朱世耘
+
+python3 1.py [input_path_1] [input_path_2] [corresponding_point.npy]
+python3 2.py [input_path]
+output_path have to be changed in code
